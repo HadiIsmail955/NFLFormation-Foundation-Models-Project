@@ -1,0 +1,13 @@
+google api key.txt
+/Data/env
+/Data/data_convertor_Football_Jersey_Tracker/Football Jersey Tracker.v1i.coco
+/Data/data_convertor_Football_Jersey_Tracker/sam_*
+/Data/data_convertor_Football_Presnap_Tracker/Football Presnap Tracker.v1i.coco
+/Data/data_convertor_Football_Presnap_Tracker/sam_*
+/env
+src/model/models/*
+/dataSet
+notes.md
+/outputs
+/logs
+dataSet.zip
